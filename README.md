@@ -1,1 +1,1 @@
-Reach rock, paper, scissors tutorial.
+Rock, paper, scissors Reach tutorial.
